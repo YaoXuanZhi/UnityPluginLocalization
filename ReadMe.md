@@ -60,3 +60,5 @@ public static readonly string[] LanguageCodes = new[] { "en", "zh", "newlang" };
 
 ## Demo
 示例窗口代码位于SampleSettingsWindow.cs，展示了如何集成本地化功能到编辑器窗口。
+
+![demo.png](./images/demo.png)

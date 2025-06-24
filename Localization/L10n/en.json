@@ -1,0 +1,7 @@
+{
+    "entries": [
+        {"key": "sampleSettingsLabel", "value": "Sample Settings"},
+        {"key": "browseButton", "value": "Browse..."},
+        {"key": "click", "value": "Click!"}
+    ]
+}

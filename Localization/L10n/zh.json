@@ -1,0 +1,7 @@
+{
+    "entries": [
+        {"key": "sampleSettingsLabel", "value": "示例设置"},
+        {"key": "browseButton", "value": "浏览..."},
+        {"key": "click", "value": "点击!"}
+    ]
+}
